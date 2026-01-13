@@ -1,4 +1,4 @@
-# Day-01: 100 Days of Cybersecurity
+# Day-01: 100 Days of Cybersecurity🚀
 
 **Date:** January 10, 2026  
 **Topic:** Official Launch & GitHub Setup
